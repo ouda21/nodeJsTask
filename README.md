@@ -73,12 +73,15 @@ Run:
 **** `npx sequlize-cli db:seed` ----- Ths will fill your table with dummy data based on faker data
 
 
-***************************End Points ************************
+End Points 
+***************************************************************
 `localhost:port/api/vi/add-student ********* {post}`
 `localhost:port/api/vi/all-students ******** {get}`
 `localhost:port/api/vi/get-single-student/id ******* {get}`
 `localhost:port/api/vi/update-student/id ********** {put}`
 `localhost:port/api/vi/delete-student/id ************ {delete}`
+
+***************************************************************
 ```
 Give the example
 ```
