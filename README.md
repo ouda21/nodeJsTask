@@ -54,15 +54,15 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-/********************IMPORTANT DATA************************/
+IMPORTANT DATA
 ************************************************************
-** `run npm install`
-** `create a .env file`
+`run npm install`.
+`create a .env file`.
     In the .env file, Include the following:
-    `API_PORT = port_number`
-    `DB_USERNAME = "database_username"`
-    `DB_PASSWORD = "your password"`
-    `DB_NAME = "database name"`
+    `API_PORT = port_number`.
+    `DB_USERNAME = "database_username"`.
+    `DB_PASSWORD = "your password"`.
+    `DB_NAME = "database name"`.
 *************************************************************
 
 
