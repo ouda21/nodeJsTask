@@ -126,7 +126,7 @@ Add additional notes about how to deploy this on a live system.
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors <a name = "authors">Ouda Wycliffe</a>
 
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
